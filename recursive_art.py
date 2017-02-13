@@ -1,4 +1,12 @@
-""" TODO: Put your header comment here """
+""" Project 2
+This is a document that can create abstract digital art by randomly ordering
+various mathematical functions defined below.
+
+This exercise is a proof of concept of recursion with some really
+cool outcomes!
+
+@author: Colvin Chapaman
+ """
 
 import random
 import math
